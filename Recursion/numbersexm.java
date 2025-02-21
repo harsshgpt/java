@@ -2,7 +2,8 @@ package Recursion;
 
 public class numbersexm {
     public static void main(String[] args) {
-        num(1);
+        num(0);
+        
     }
 
     static void num(int a ){
@@ -12,6 +13,6 @@ public class numbersexm {
       System.out.println(a);
       num(a+1);
     }
-   
-    }
+
+}
 
