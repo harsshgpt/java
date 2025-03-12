@@ -2,7 +2,7 @@ package Recursion;
 
 public class febbonacchi {
     public static void main(String[] args) {
-      System.out.println(fibo(7));
+      System.out.println(fibo(1000));
     }
     static int fibo(int n ){
         if(n<2){
