@@ -1,3 +1,4 @@
+package BInary_operations;
 public class oddevenbinary {
     public static void main(String[] args) {
         int n = 63;
