@@ -11,6 +11,6 @@ public class arrayduplicate {
         for(int n : arr){
             unique ^= n;
         }
-        return unique;
+        return unique; 
     }
 }
