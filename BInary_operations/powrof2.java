@@ -15,6 +15,6 @@ public class powrof2 {
        }else{
         System.out.println("not the power of 2");
        }
-       System.out.println(Math.sqrt(10));
+       
     }
 }
