@@ -6,7 +6,7 @@ public class three{
     static void pattern (int n){
         int k = (n+1)/2;
         for(int i = 1 ; i<=n ;i++){
-            if(i<=k){
+            if(i<=k){      
                 //direct
                 for(int j = 1; j<=i;j++){
                     System.out.print("*");
