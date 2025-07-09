@@ -6,6 +6,7 @@ public class arrayduplicate {
      System.out.println(ans(arr));
     }
 
+
     
     static int ans(int[]arr){
         int unique = 0;
